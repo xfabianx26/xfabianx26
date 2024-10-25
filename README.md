@@ -1,6 +1,7 @@
 
+<img src="https://www.canva.com/design/DAGUm1glYhE/-FiHbZYbVcNQQy_p2WtFtA/view?utm_content=DAGUm1glYhE&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Banner" width="100%" />
 
-<h1 align="center">Hello 👋, I'm Fabian Andres Ortiz</h1> <h3 align="center">Passionate Java Developer | Spring Boot & Microservices Expert | Based in Colombia</h3> <p align="center"> I am a dedicated developer with a strong focus on backend technologies and microservices architecture. With hands-on experience in building robust, scalable applications using Spring Boot and Angular, I continuously seek to improve performance and user experience. My passion for problem-solving and delivering high-quality software drives me to keep learning and pushing the boundaries of technology. </p>
+<h1 align="center">Hello 👋, I'm Fabian Andres Ortiz</h1> <h3 align="center">Passionate Java Developer | Spring Boot & Microservices  | Based in Colombia</h3> <p align="center"> I am a dedicated developer with a strong focus on backend technologies and microservices architecture. With hands-on experience in building robust, scalable applications using Spring Boot and Angular, I continuously seek to improve performance and user experience. My passion for problem-solving and delivering high-quality software drives me to keep learning and pushing the boundaries of technology. </p>
 🔭 Current Projects: Working on several Spring Boot and Angular projects aimed at optimizing performance and enhancing user experience.
 
 🌱 Learning & Growth: Expanding my knowledge in Java, Spring Boot, AWS, and Microservices to stay at the forefront of technological advancements.
@@ -90,9 +91,5 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
 </a>
 
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xfabianx26&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfabianx26&theme=react&layout=compact" />
 </p>
 
