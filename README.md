@@ -30,9 +30,9 @@ Aquí tienes un README personalizado basado en tu perfil y experiencia:
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
   </a> 
-  <a href="https://openliberty.io/" target="_blank"> 
-    <img src="https://www.openliberty.io/img/logos/logo-blue.svg" alt="open liberty" width="40" height="40"/> 
-  </a>
+<a href="https://openliberty.io/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Openliberty_icon_blue.svg" alt="open liberty" width="40" height="40"/> 
+</a>
   <a href="https://redis.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
@@ -72,14 +72,16 @@ Aquí tienes un README personalizado basado en tu perfil y experiencia:
   <a href="https://www.ibm.com/products/mq" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/IBM_MQ_logo.svg" alt="IBM MQ" width="40" height="40"/>
   </a>
+
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  <a href="https://www.ibm.com/products/db2" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/IBM_DB2_logo.svg" alt="DB2" width="40" height="40"/> 
-  </a>
+<a href="https://www.ibm.com/products/db2" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/IBM_DB2_logo.svg" alt="DB2" width="40" height="40"/> 
+</a>
+
 </p>
 
