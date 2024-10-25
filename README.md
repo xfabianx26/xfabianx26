@@ -1,16 +1,18 @@
 
-Aquí tienes un README personalizado basado en tu perfil y experiencia:
 
-<h1 align="center">Hi 👋, I'm Fabian Andres Ortiz</h1> <h3 align="center">A dedicated Java Developer specializing in Spring Boot and Microservices from Colombia</h3>
-🔭 I’m currently working on various Spring Boot and Angular projects, aiming to optimize application performance and enhance user experience.
+<h1 align="center">Hello 👋, I'm Fabian Andres Ortiz</h1> <h3 align="center">Passionate Java Developer | Spring Boot & Microservices Expert | Based in Colombia</h3> <p align="center"> I am a dedicated developer with a strong focus on backend technologies and microservices architecture. With hands-on experience in building robust, scalable applications using Spring Boot and Angular, I continuously seek to improve performance and user experience. My passion for problem-solving and delivering high-quality software drives me to keep learning and pushing the boundaries of technology. </p>
+🔭 Current Projects: Working on several Spring Boot and Angular projects aimed at optimizing performance and enhancing user experience.
 
-🌱 I’m continuously learning and expanding my skills in Java, Spring Boot, AWS, and Microservices.
+🌱 Learning & Growth: Expanding my knowledge in Java, Spring Boot, AWS, and Microservices to stay at the forefront of technological advancements.
 
-👯 I’m looking to collaborate on backend projects and innovative solutions in microservices architecture.
+👯 Collaboration: Open to collaborating on backend projects and microservices-based solutions that drive innovation.
 
-📫 How to reach me: fabianandresortiz1993@gmail.com
+📫 Contact Me: Reach out via fabianandresortiz1993@gmail.com
 
-⚡ What I enjoy: Problem-solving, developing high-quality software, and continuous learning in technology
+⚡ Passions: I thrive on solving complex problems, developing high-quality software, and continuously growing in the ever-evolving field of technology.
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -57,7 +59,7 @@ Aquí tienes un README personalizado basado en tu perfil y experiencia:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://www.cypress.io/" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/>
