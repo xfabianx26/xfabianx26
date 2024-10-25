@@ -16,7 +16,7 @@ Aquí tienes un README personalizado basado en tu perfil y experiencia:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-andres-ortiz-valiente-26b130127/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianandresortiz1993@gmail.com)
+
 
 </div>
 
