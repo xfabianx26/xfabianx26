@@ -1,9 +1,4 @@
 
-<img src="https://drive.google.com/uc?export=view&id=1Zuld0cnpp_tI2E91BXk4J00uL7Amg6ha" alt="Banner" width="100%" />
-
-
-
-
 
 <h1 align="center">Hello 👋, I'm Fabian Andres Ortiz</h1> <h3 align="center">Java Developer | Spring Boot & Microservices </h3> <p align="center"> Backend-focused developer with hands-on experience building scalable applications using <strong>Spring Boot</strong> and <strong>Angular</strong>. Passionate about solving problems, optimizing performance, and delivering high-quality solutions. </p> <div align="center">
 🔭 Current Projects: Optimizing performance with Spring Boot and Angular.
