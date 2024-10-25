@@ -1,16 +1,22 @@
 
-<img src="https://www.canva.com/design/DAGUm1glYhE/-FiHbZYbVcNQQy_p2WtFtA/view?utm_content=DAGUm1glYhE&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Banner" width="100%" />
+<img src="https://drive.google.com/uc?export=view&id=1Zuld0cnpp_tI2E91BXk4J00uL7Amg6ha" alt="Banner" width="100%" />
 
-<h1 align="center">Hello 👋, I'm Fabian Andres Ortiz</h1> <h3 align="center">Passionate Java Developer | Spring Boot & Microservices  | Based in Colombia</h3> <p align="center"> I am a dedicated developer with a strong focus on backend technologies and microservices architecture. With hands-on experience in building robust, scalable applications using Spring Boot and Angular, I continuously seek to improve performance and user experience. My passion for problem-solving and delivering high-quality software drives me to keep learning and pushing the boundaries of technology. </p>
-🔭 Current Projects: Working on several Spring Boot and Angular projects aimed at optimizing performance and enhancing user experience.
 
-🌱 Learning & Growth: Expanding my knowledge in Java, Spring Boot, AWS, and Microservices to stay at the forefront of technological advancements.
 
-👯 Collaboration: Open to collaborating on backend projects and microservices-based solutions that drive innovation.
 
-📫 Contact Me: Reach out via fabianandresortiz1993@gmail.com
 
-⚡ Passions: I thrive on solving complex problems, developing high-quality software, and continuously growing in the ever-evolving field of technology.
+<h1 align="center">Hello 👋, I'm Fabian Andres Ortiz</h1> <h3 align="center">Java Developer | Spring Boot & Microservices </h3> <p align="center"> Backend-focused developer with hands-on experience building scalable applications using <strong>Spring Boot</strong> and <strong>Angular</strong>. Passionate about solving problems, optimizing performance, and delivering high-quality solutions. </p> <div align="center">
+🔭 Current Projects: Optimizing performance with Spring Boot and Angular.
+
+🌱 Learning & Growth: Expanding my expertise in Java, Spring Boot, AWS, and Microservices.
+
+👯 Open to Collaboration: Seeking backend projects and microservices-based innovations.
+
+📫 Reach Me: fabianandresortiz1993@gmail.com
+
+⚡ Passions: Problem-solving, coding, and continuous learning.
+
+</div>
 
 
 
