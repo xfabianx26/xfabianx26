@@ -31,7 +31,7 @@ Aquí tienes un README personalizado basado en tu perfil y experiencia:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
   </a> 
 <a href="https://openliberty.io/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Openliberty_icon_blue.svg" alt="open liberty" width="40" height="40"/> 
+  <img src="https://javapro.io/wp-content/uploads/2024/04/OpenLiberty-Logo-qu.png" alt="open liberty" width="40" height="40"/> 
 </a>
   <a href="https://redis.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
