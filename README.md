@@ -31,8 +31,10 @@ Aquí tienes un README personalizado basado en tu perfil y experiencia:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
   </a> 
 <a href="https://openliberty.io/" target="_blank"> 
-  <img src="https://javapro.io/wp-content/uploads/2024/04/OpenLiberty-Logo-qu.png" alt="open liberty" width="40" height="40"/> 
+  <img src="https://openliberty.io/img/twitter_card.jpg" alt="Open Liberty" width="40" height="40"/> 
 </a>
+
+
   <a href="https://redis.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
@@ -70,7 +72,7 @@ Aquí tienes un README personalizado basado en tu perfil y experiencia:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
   </a> 
   <a href="https://www.ibm.com/products/mq" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/IBM_MQ_logo.svg" alt="IBM MQ" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/C4D12AQEVn0_WIaZ-IQ/article-cover_image-shrink_720_1280/0/1593766791164?e=2147483647&v=beta&t=gMWwLb5pM_RRpGOFB0fBOKVshUwBT7OT8wgW5hK7gTk" alt="IBM MQ" width="40" height="40"/>
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank"> 
@@ -80,7 +82,7 @@ Aquí tienes un README personalizado basado en tu perfil y experiencia:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
 <a href="https://www.ibm.com/products/db2" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/IBM_DB2_logo.svg" alt="DB2" width="40" height="40"/> 
+  <img src="https://www.bacula.lat/wp-content/uploads/2019/05/db2logo.png" alt="DB2" width="40" height="40"/> 
 </a>
 
 </p>
