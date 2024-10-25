@@ -86,6 +86,13 @@
 <a href="https://www.ibm.com/products/db2" target="_blank"> 
   <img src="https://www.bacula.lat/wp-content/uploads/2019/05/db2logo.png" alt="DB2" width="40" height="40"/> 
 </a>
+<a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+</a>
 
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xfabianx26&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfabianx26&theme=react&layout=compact" />
 </p>
 
