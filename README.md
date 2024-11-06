@@ -14,18 +14,17 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-andres-ortiz-valiente-26b130127/)
 
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
 
   <!-- Frontend -->
-  <h4>Frontend:</h4>
+  <h3>Frontend:</h3>
   <p>
     <a href="https://angular.io/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
@@ -45,7 +44,7 @@
   </p>
 
   <!-- Backend -->
-  <h4>Backend:</h4>
+  <h3>Backend:</h3>
   <p>
     <a href="https://www.java.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -77,7 +76,7 @@
   </p>
 
   <!-- Automation -->
-  <h4>Automation:</h4>
+  <h3>Automation:</h3>
   <p>
     <a href="https://www.cypress.io/" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress" width="40" height="40"/>
@@ -94,7 +93,7 @@
   </p>
 
   <!-- Cloud -->
-  <h4>Cloud:</h4>
+  <h3>Cloud:</h3>
   <p>
     <a href="https://www.openshift.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" width="40" height="40"/>
@@ -102,6 +101,21 @@
     <a href="https://aws.amazon.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
     </a>
+  </p>
+  <!-- Tools -->
+  <h3>Tools:</h3>
+  <p>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    </a>
+  <!-- SonarQube -->
+  <a href="https://www.sonarqube.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/>
+  </a>
+
   </p>
 
 </div>
