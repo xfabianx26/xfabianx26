@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Fabian Andres Ortiz</h1>
 <h3 align="center">Java Developer |  Spring Boot & Microservices </h3>
 <p align="center">
-  Full Stack Developer with 3 years of experience in building scalable applications using <strong>Spring Boot</strong> and <strong>Angular</strong>. Passionate about software testing, optimizing performance, and delivering high-quality solutions.
+  Java Developer with 3 years of experience in building scalable applications using <strong>Spring Boot</strong> and <strong>Angular</strong>. Passionate about software testing, optimizing performance, and delivering high-quality solutions.
 </p>
 <div align="center">
   🔭 Current Projects: Optimizing performance and scalability with Spring Boot, Angular, and microservices.<br>
